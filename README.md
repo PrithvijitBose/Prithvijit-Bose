@@ -1,4 +1,4 @@
-![image](https://github.com/PrithvijitBose/Prithvijit-Bose/assets/136217645/00649289-8963-49e3-b363-9587429dc956)<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=PrithvijitBose.PrithvijitBose" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=PrithvijitBose.PrithvijitBose" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prithvijit+Bose!;" />
@@ -45,7 +45,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="" />
+  <img alt="snake eating my contributions" src="https://github.com/PrithvijitBose/Prithvijit-Bose/assets/136217645/00649289-8963-49e3-b363-9587429dc956" />
   
   <br/><br/><br/>
 </div>
